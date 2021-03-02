@@ -1,2 +1,2 @@
-# awesome-huron
-A list of projects and resources developed or endorsed by Club of Algoritmia ESCOM
+# huron-tools
+A list of projects and resources developed by Club de Algoritmia ESCOM
