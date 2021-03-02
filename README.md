@@ -1,8 +1,8 @@
 # huron-tools
 A list of projects and resources developed by Club de Algoritmia ESCOM
 
-- [cpbooster](https://github.com/searleser97/cpbooster)
-- [mkcpr](https://github.com/searleser97/mkcpr)
+- [cpbooster](https://github.com/searleser97/cpbooster) **C**omptetitive **P**rogramming **B**ooster
+- [mkcpr](https://github.com/searleser97/mkcpr) **M**a**k**e **C**ompetitive **P**rogramming **R**eference
 
 ## Contributing
 
