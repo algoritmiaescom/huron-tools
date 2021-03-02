@@ -1,12 +1,16 @@
 # huron-tools
-A list of projects and resources developed by Club de Algoritmia ESCOM
+A list of projects and resources developed by Club de Algoritmia ESCOM.  Feel free to reach out to the maintainers for contribuiting, reporting bugs or requesting features! 
 
-- [cpbooster](https://github.com/searleser97/cpbooster) **C**omptetitive **P**rogramming **B**ooster
-- [mkcpr](https://github.com/searleser97/mkcpr) **M**a**k**e **C**ompetitive **P**rogramming **R**eference
+
+## Tools developed in-house
+Collection of tools developed by our members.
+
+- [cpbooster](https://github.com/searleser97/cpbooster) - **C**omptetitive **P**rogramming **B**ooster
+- [mkcpr](https://github.com/searleser97/mkcpr) - **M**a**k**e **C**ompetitive **P**rogramming **R**eference
 
 ## Contributing
 
-Do you want to contribute? We'd love that.
+Do you want to contribute to this list? We'd love that.
 
 #### How?
 
