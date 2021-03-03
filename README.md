@@ -6,6 +6,7 @@ A list of projects and resources developed by Club de Algoritmia ESCOM.  Feel fr
 Collection of tools developed by our members.
 
 - [cpbooster](https://github.com/searleser97/cpbooster) - **C**ompetitive **P**rogramming **B**ooster
+- [huron-ladders](https://github.com/vs6q9b/huron-ladders) - 🦦 List of problems to solve into the club
 - [mkcpr](https://github.com/searleser97/mkcpr) - **M**a**k**e **C**ompetitive **P**rogramming **R**eference
 
 ## Contributing
