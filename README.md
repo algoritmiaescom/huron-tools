@@ -8,6 +8,7 @@ Collection of tools developed by our members.
 - [cpbooster](https://github.com/searleser97/cpbooster) - **C**ompetitive **P**rogramming **B**ooster
 - [huron-ladders](https://github.com/vs6q9b/huron-ladders) - 🦦 List of problems to solve into the club
 - [mkcpr](https://github.com/searleser97/mkcpr) - **M**a**k**e **C**ompetitive **P**rogramming **R**eference
+- [huronOS](https://huronos.org) - A linux distro specialized in competitive programming and all the activities around it.
 
 ## Contributing
 
